@@ -1,34 +1,25 @@
-# Inshackle v1.0
+# Instapie v1.0
 # Instagram bot,auto follower
-## Recoded: github.com/cyberkallan/inshackle-bot
-## IG: instagram.com/arz_beats
-## subscribe my YouTube channel - https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA
-### Don't copy this code without give me the credits, nerd! Please read the License 
-### thanks to linuxchoice
-Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
-
-### Features:
-#### Unfollow Tracker
-#### Increase Followers
-#### Download: Stories, Saved Content, Following/followers list, Profile Info
-#### Unfollow all your following
-
-![ins](https://user-images.githubusercontent.com/56509491/66778205-b18ad580-eee8-11e9-8904-2c536b1a365d.JPG)
+## Recoded: https://github.com/MrHarshArora/Instapie
+## IG: instagram.com/cyb3rgh02t
+## subscribe my YouTube channel -
+###Instagram Hacks
+1.Track you unfollwers
+2. Increase Followers
+3. Download stories
+4. Download saved content.
+5. Download Followers list
+6. Download following list
+7. Download profile info
+8. Activate unfollowers
+ # tested on 
+ Kali linux
+ Parrot Os
 
 ### Usage:
 ```
-git clone https://github.com/cyberkallan/inshackle-bot
-cd inshackle-bot
-bash inshackle.sh
+git clone https://github.com/MrHarshArora/Instapie
+cd instapie
+bash instapie.sh
 ```
-
-## by arjun arz
-
-![cb](https://user-images.githubusercontent.com/56509491/66774387-15100580-eedf-11e9-84ff-c0f396016bd5.jpg)
-
-### Donate!
-Support the authors:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-### LiberaPay:
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+## by CyberGhost(Team)
