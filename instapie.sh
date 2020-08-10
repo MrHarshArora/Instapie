@@ -1,7 +1,7 @@
-#!/bin/bash
+# !/bin/bash
 # Instapie v1.0
 # recoded by: Cyb3rGh02t
-# github.com/mr.harsh/arora/Instapie
+# https://github.com/MrHarshArora/Instapie
 # If you use any part from this code, give me the credits, please, read the License
 
 clear
