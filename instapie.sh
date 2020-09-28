@@ -1,10 +1,10 @@
 # !/bin/bash
 # Instapie v1.0
-# recoded by: Cyb3rGh02t
+# recoded by: Harsh Arora
 # https://github.com/MrHarshArora/Instapie
 # If you use any part from this code, give me the credits, please, read the License
 
-clear
+
 string4=$(openssl rand -hex 32 | cut -c 1-4)
 string8=$(openssl rand -hex 32  | cut -c 1-8)
 string12=$(openssl rand -hex 32 | cut -c 1-12)
@@ -18,12 +18,14 @@ var=$(curl -i -s -H "$header" https://i.instagram.com/api/v1/si/fetch_headers/?c
 var2=$(echo $var | grep -o 'csrftoken=.*' | cut -d ';' -f1 | cut -d '=' -f2)
 ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
+
+
 banner() {
-printf "\n"
-printf "InstaPie-CyberGhost"
-printf "\n"
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m Developed By CyberGhost(team) - Harsh Arora )\e[0m\n"
+
+
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by CyberGhost (thanks to Harsh Arora | CyberGhost )\e[0m\n"
 }
+
 
 
 login_user() {
